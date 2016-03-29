@@ -7,4 +7,5 @@ I'm using this for an installation which should run on a louder volume at day, a
 For that purpose, three servo positions and three trigger times (day/evening/night) can be stored in the EEPROM of the microcontroller.
 When a trigger time is reached, the program automatically adjusts the volume knob to the desired position.
 
-3D printable design files for the mechanism which fits on a Mackie 402VLZ4 mixer can be found here: 
+3D printable design files for the mechanism which connects a Tower Pro SG90 micro servo to a Mackie 402VLZ4 mixer can be found here: 
+https://www.youmagine.com/designs/servo-on-audio-mixer
